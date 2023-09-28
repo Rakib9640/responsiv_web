@@ -1,0 +1,34 @@
+.brand-logo{
+    width: 40.424px;
+    height: 51px;
+}
+.profil{
+    width: 51px;
+    height: 51px;
+}
+body{color: #ffffff;;}
+.player img{
+    width: 56px;
+    height: 56px;
+}
+main{
+    max-width: 870px;
+}
+.top-playe{ background-color: #e7dfdf;}
+.bolog-photo img{
+   width: 177px;
+   height: 117px;
+}
+.top-blog{
+    background-color: #e0b3b3;
+}
+.cours img{
+    width: 200px;
+    height: 120px;
+}
+.menu_hover:hover{
+    background-color: #fcf6f6;
+    color: rgb(81, 7, 253) !important;
+    border-radius: 5px;
+    font-weight: 700;
+}
